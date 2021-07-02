@@ -6,7 +6,7 @@ This repository contains code exercises and materials for Udacity's [Computer Vi
 # Configure and Manage Your Environment with Anaconda
 
 Per the Anaconda [docs](http://conda.pydata.org/docs):
-
+897089
 > Conda is an open source package management system and environment management system 
 for installing multiple versions of software packages and their dependencies and 
 switching easily between them. It works on Linux, OS X and Windows, and was created 
@@ -64,6 +64,7 @@ If you'd like to learn more about version control and using `git` from the comma
 git clone https://github.com/udacity/CVND_Exercises.git
 cd CVND_Exercises
 ```
+..................
 
 2. Create (and activate) a new environment, named `cv-nd` with Python 3.6. If prompted to proceed with the install `(Proceed [y]/n)` type y.
 
