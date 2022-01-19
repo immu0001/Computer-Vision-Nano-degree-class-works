@@ -64,7 +64,7 @@ If you'd like to learn more about version control and using `git` from the comma
 git clone https://github.com/udacity/CVND_Exercises.git
 cd CVND_Exercises
 ```
-..................
+........................ 
 
 2. Create (and activate) a new environment, named `cv-nd` with Python 3.6. If prompted to proceed with the install `(Proceed [y]/n)` type y.
 
